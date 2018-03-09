@@ -2,14 +2,11 @@ package ch1.sec01;
 
 import java.util.*;
 
-import ch1.sec06.Application;
 import javafx.application.*;
 import javafx.event.*;
 import javafx.scene.*;
 import javafx.scene.control.*;
 import javafx.stage.*;
-
-import static javafx.application.Application.launch;
 
 public class OldStyle extends Application {
    public static void main(String[] args) {      

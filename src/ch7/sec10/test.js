@@ -1,4 +1,4 @@
-// Run as js test.js
+// Run as jjs test.js
 
 var RandomIterator = Java.extend(java.util.Iterator, {
    next: function() Math.random(),
